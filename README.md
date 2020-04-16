@@ -13,4 +13,4 @@ to run test
 
 after tests a finish you should see something like this
 
-![specs pass](https://monosnap.com/file/vxYzfKvN1RgYE3Af8VDOgv0XKoiRDP)
+<img width="1276" src="https://user-images.githubusercontent.com/12530754/79481893-c0c61980-8018-11ea-89f6-6cdff42addbb.png">
