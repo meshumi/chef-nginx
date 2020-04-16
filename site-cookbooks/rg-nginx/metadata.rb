@@ -1,0 +1,10 @@
+name             'rg-nginx'
+maintainer       'Dmitriy Ganzha'
+maintainer_email 'ganzha.dmitriy@rubygarage.org'
+license          'All rights reserved'
+description      'Nginx configuration'
+long_description 'Nginx configuration'
+version          '0.1.0'
+
+depends 'nginx'
+depends 'apt'

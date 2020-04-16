@@ -1,0 +1,24 @@
+DEPENDENCIES
+  nginx (= 9.0.0)
+  rg-nginx
+    path: site-cookbooks/rg-nginx
+
+GRAPH
+  apt (7.2.0)
+  build-essential (8.2.1)
+    mingw (>= 1.1)
+    seven_zip (>= 0.0.0)
+  mingw (2.1.0)
+    seven_zip (>= 0.0.0)
+  nginx (9.0.0)
+    build-essential (>= 5.0)
+    ohai (>= 4.1.0)
+    yum-epel (>= 0.0.0)
+  ohai (5.3.0)
+  rg-nginx (0.1.0)
+    apt (>= 0.0.0)
+    nginx (>= 0.0.0)
+  seven_zip (3.1.2)
+    windows (>= 0.0.0)
+  windows (7.0.0)
+  yum-epel (3.3.0)

@@ -1,0 +1,12 @@
+/cookbooks
+/tmp
+/vagrant/*
+!/vagrant/Vagrantfile
+.coverage/
+.vscode
+.bundle
+vendor
+encrypted_data_bag_secret
+/cookbooks/
+.idea
+.kitchen

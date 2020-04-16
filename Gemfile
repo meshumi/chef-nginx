@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'berkshelf'
+gem 'chef'
+gem 'foodcritic'
+gem 'knife-solo'
+gem 'knife-solo_data_bag'
+gem 'libyajl2'
+gem 'chefspec'
+gem 'kitchen-vagrant'
+gem 'kitchen-inspec'
+gem 'kitchen-nodes'
+# gem 'inspec'
